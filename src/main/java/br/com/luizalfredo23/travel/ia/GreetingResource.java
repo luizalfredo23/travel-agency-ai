@@ -1,4 +1,4 @@
-package br.com.luizalfredo23;
+package br.com.luizalfredo23.travel.ia;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
